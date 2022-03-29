@@ -3,7 +3,6 @@
 ***
 
 <h2 style="overflow-wrap:normal">
-    <img src="./github-metrics.svg" style="width:50%;float:right;">
     I am a 15 year old freshman that goes to Gull Lake High School. 
     I have been coding for 5 years and always want to get better. 
     I am fluent in a few programming languages including
@@ -13,4 +12,6 @@
     or send me an email at landonharter@outlook.com
     <hr style="border-radius:100px;border:none;height:4px;background-color:#535353;">
     <div style="font-weight:bold;">The way to get started is to quit talking and begin doing - Walt Disney</div>
+    <hr style="border-radius:100px;border:none;height:4px;background-color:#535353;">
 </h2>
+<img src="./github-metrics.svg">
