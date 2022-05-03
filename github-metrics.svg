@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpaiR/imgui-java</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JNI based binding for Dear ImGui</div>
@@ -465,7 +465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LandonHarter/UnityUtility</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unity Utility has a ton of very useful features that can help improve and make developing games faster.</div>
@@ -509,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 May 2022, 12:39:14 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 3 May 2022, 13:32:55 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
