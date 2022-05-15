@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookarchive/network-connection-class</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Listen to current network traffic in the app and categorize the quality of the network.</div>
@@ -365,7 +365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jni-rs/jni-rs</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust bindings to the Java Native Interface — JNI</div>
@@ -418,7 +418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kivy/pyjnius</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Access Java classes from Python</div>
@@ -471,7 +471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytedeco/javacpp</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The missing bridge between Java and native C++</div>
@@ -521,7 +521,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 May 2022, 11:24:55 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 15 May 2022, 12:34:03 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
