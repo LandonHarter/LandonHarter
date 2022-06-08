@@ -359,7 +359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Renanse/Ardor3D</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ardor3D is a free Java based, professionally oriented, open source 3D graphics engine.</div>
@@ -412,7 +412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>g-truc/glm</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenGL Mathematics (GLM)</div>
@@ -515,7 +515,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jun 2022, 19:22:02 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 21:59:20 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
