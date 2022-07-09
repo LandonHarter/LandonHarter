@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>code-disaster/steamworks4j</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A thin Java wrapper to access the Steamworks API</div>
@@ -503,7 +503,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jul 2022, 12:30:29 (timezone America/New_York) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 9 Jul 2022, 13:21:30 (timezone America/New_York) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
