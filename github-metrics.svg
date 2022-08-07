@@ -353,7 +353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FasterXML/jackson-databind</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)</div>
@@ -503,7 +503,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 14:17:01 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 14:40:27 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
