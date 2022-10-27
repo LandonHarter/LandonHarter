@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oracle/graaljs</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A ECMAScript 2022 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!</div>
@@ -521,7 +521,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2022, 13:52:44 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 27 Oct 2022, 14:21:33 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
