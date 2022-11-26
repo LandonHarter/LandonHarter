@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/kit</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fastest way to build Svelte apps</div>
@@ -365,7 +365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotnet/aspnetcore</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.</div>
@@ -418,7 +418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laravel/framework</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Laravel Framework.</div>
@@ -521,7 +521,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Nov 2022, 08:56:12 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 26 Nov 2022, 09:16:32 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
