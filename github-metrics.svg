@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brillout/awesome-react-components</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated List of React Components &amp; Libraries.</div>
@@ -359,7 +359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/react-native</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A framework for building native applications using React</div>
@@ -503,7 +503,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2022, 17:52:53 (timezone America/New_York) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 18 Dec 2022, 18:11:22 (timezone America/New_York) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
