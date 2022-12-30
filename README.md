@@ -3,7 +3,7 @@
 ***
 
 <h2 style="overflow-wrap:normal">
-    I am a 15 year old softmore that goes to Gull Lake High School. 
+    I am a 15 year old sophomore that goes to Gull Lake High School. 
     I have been coding for 5 years and always want to get better. 
     I am fluent in a few programming languages including
     Java and C#. I want to get better at web development, specifically 
