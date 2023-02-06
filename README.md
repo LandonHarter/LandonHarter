@@ -9,5 +9,4 @@
     or send me an email at landonharter@outlook.com
     <hr style="border-radius:100px;border:none;height:4px;background-color:#535353;">
     <div style="font-weight:bold;">"I like pushing boundaries" - Lady Gaga</div>
-    <hr style="border-radius:100px;border:none;height:4px;background-color:#535353;">
 </h2>
