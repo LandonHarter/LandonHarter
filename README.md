@@ -11,4 +11,4 @@
     <div style="font-weight:bold;">"I like pushing boundaries" - Lady Gaga</div>
     <hr style="border-radius:100px;border:none;height:4px;background-color:#535353;">
 </h2>
-![](https://github-readme-stats.vercel.app/api?username=LandonHarter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=LandonHarter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
