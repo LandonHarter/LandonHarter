@@ -1,3 +1,3 @@
 hey guys 👋
 
-I recommend checking out my [portfolio](https://landonharter.me), as most of my code is closed source!
+I recommend checking out my [portfolio](https://landonharter.me). Unfortunately, my best code is closed source due to the projects being comercially available.
